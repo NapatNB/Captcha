@@ -32,7 +32,7 @@
                       }
                     var res = a  + b   + c  + d  + e+ f  + g;
                     document.getElementById("mainCaptcha").value = res
-                  
+                    var res2 = g + f + e + d + c + b + a ; 
 					  }
                   
                   function removeSpaces(string){
